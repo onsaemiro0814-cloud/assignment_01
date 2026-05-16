@@ -1,5 +1,5 @@
 def hello():
  print("Hello, Gyubeen!")
- print("Welcome to the GIT")
+ print("Back to master branch")
 
 hello()
